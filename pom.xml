@@ -6,12 +6,10 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>rbento</groupId>
-	<artifactId>kotlin-coroutines</artifactId>
+	<artifactId>kotlin-maven-starter</artifactId>
 	<version>1.0.0</version>
 
-	<name>kotlin-coroutines</name>
-
-	<description>A simple project to exercise Kotlin Coroutines</description>
+	<name>kotlin-maven-starter</name>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
